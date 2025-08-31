@@ -189,5 +189,5 @@ The application will be available at:
 <img width="1919" height="903" alt="Screenshot 2025-08-28 231148" src="https://github.com/user-attachments/assets/b34f80e1-c62e-4021-a7ff-0f7c4c910a9b" />
 <img width="1919" height="895" alt="Screenshot 2025-08-28 231135" src="https://github.com/user-attachments/assets/7d7eee3f-b267-4410-9634-2cc208c875ee" />
 <img width="1904" height="907" alt="Screenshot 2025-08-28 231141" src="https://github.com/user-attachments/assets/1d3b26cd-aa26-43e6-91a8-11a58efee3ff" />
-<img width="1891" height="903" alt="Screenshot 2025-08-28 231113" src="https://github.com/user-attachments/assets/b53de3f7-359c-4b71-9186-804039997331" />
+
 
