@@ -183,12 +183,11 @@ The application will be available at:
 
 
 
-## 🎨 Screenshots
+## 🎨 Screenshots<img width="1899" height="870" alt="Screenshot 2025-08-30 093059" src="https://github.com/user-attachments/assets/6e33b738-ca06-4c39-9200-31ac8bc13225" />
 
+<img width="1891" height="903" alt="Screenshot 2025-08-28 231113" src="https://github.com/user-attachments/assets/749da456-64d6-4939-b568-8d92c4e89620" />
+<img width="1919" height="903" alt="Screenshot 2025-08-28 231148" src="https://github.com/user-attachments/assets/b34f80e1-c62e-4021-a7ff-0f7c4c910a9b" />
+<img width="1919" height="895" alt="Screenshot 2025-08-28 231135" src="https://github.com/user-attachments/assets/7d7eee3f-b267-4410-9634-2cc208c875ee" />
+<img width="1904" height="907" alt="Screenshot 2025-08-28 231141" src="https://github.com/user-attachments/assets/1d3b26cd-aa26-43e6-91a8-11a58efee3ff" />
+<img width="1891" height="903" alt="Screenshot 2025-08-28 231113" src="https://github.com/user-attachments/assets/b53de3f7-359c-4b71-9186-804039997331" />
 
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/profit-predictor?style=social)](https://github.com/yourusername/profit-predictor)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/profit-predictor)](https://github.com/yourusername/profit-predictor/issues)
-
-**Made with ❤️ by the Profit Predictor Team**
-
-</div>
